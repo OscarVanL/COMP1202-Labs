@@ -1,0 +1,13 @@
+By what initials was Franklin Roosevelt better known?,FDR,right
+Which number president was Franklin Roosevelt?,d,wrong
+Which state was Franklin Roosevelt born in?,d,wrong
+In which year did Roosevelt become Governor of New York?,2,wrong
+What was the name of Franklin Roosevelt's wife?,f,wrong
+How many children did Franklin Roosevelt have?,f,wrong
+From which university did Franklin Roosevelt graduate with an A.B in history?,f,wrong
+What was the first name of Franklin Roosevelt's 5th cousin, who was also President?,f,wrong
+Which disease is believed to be the causes of Franklin Roosevelt's paralysis?,f,wrong
+At what age did Franklin Roosevelt die?,f,wrong
+User score: 1
+Questions asked: 10
+Percentage correct: 10.0%
